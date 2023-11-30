@@ -1,0 +1,2 @@
+# This rule drops all tcp traffic on User Ports from the internet to your local network
+drop tcp $EXTERNAL_NET any -> $HOME_NET [1024:65535] (msg:"Block User Ports"; classtype:bad-unknown; sid:9900001; rev:1;)
