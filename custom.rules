@@ -2,4 +2,4 @@
 
 drop tcp $EXTERNAL_NET any -> $HOME_NET [1024:65535] (msg:"Block User Ports"; classtype:bad-unknown; sid:9900001; rev:1;)
 
-alert tcp any any -> any any (msg:"whatever"; file_type:MSEXEC; sid:123456; rev:1;)
+alert tcp any any -> any any (msg:"whatever"; classtype:MSEXEC; file_type:MSEXEC; sid:123456; rev:1;)
