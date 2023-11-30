@@ -1,8 +1,3 @@
-# This rule drops all tcp traffic on User Ports from the internet to your local network
-
-drop tcp $EXTERNAL_NET any -> $HOME_NET [1024:65535] (msg:"Block User Ports"; classtype:bad-unknown; sid:9900001; rev:1;)
-
-alert tcp any any -> any any (msg:"whatever"; classtype:MSEXEC; file_type:MSEXEC; sid:123456; rev:1;)
 alert tcp any any -> any !143 (msg:"SURICATA IMAP but not tcp port 143"; flow:to_server; app-layer-protocol:imap; sid:2271010; rev:1;)
 alert tcp any any -> any 143 (msg:"SURICATA TCP port 143 but not IMAP"; flow:to_server; app-layer-protocol:!imap; sid:2271011; rev:1;)
 alert tcp any any -> any 502 (msg:"SURICATA TCP port 502 but not MODBUS"; flow:to_server; app-layer-protocol:!modbus; sid:2271018; rev:1;)
