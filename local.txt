@@ -3,6 +3,7 @@
 ||drive.google.com^
 ||photos.google.com^
 ||sharepoint.com^
+||4share.vn^
 ||1drv.com^
 ||onedrive.com^
 ||dropbox.com^
