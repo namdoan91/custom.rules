@@ -1,3 +1,59 @@
-#alert tcp any any -> any !143 (msg:"SURICATA IMAP but not tcp port 143"; flow:to_server; app-layer-protocol:imap; sid:2271010; rev:1;)
-#alert tcp any any -> any 143 (msg:"SURICATA TCP port 143 but not IMAP"; flow:to_server; app-layer-protocol:!imap; sid:2271011; rev:1;)
-alert tcp any any -> any 502 (msg:"SURICATA TCP port 502 but not MODBUS"; flow:to_server; app-layer-protocol:!modbus; sid:2271018; rev:1;)
+### Block các host drive/ cloud không cho truy cập
+### IT MVP tạo rules ngăn chặn các truy cập
+||drive.google.com^
+||photos.google.com^
+||sharepoint.com^
+||1drv.com^
+||onedrive.com^
+||dropbox.com^
+||www.box.com^
+||boxcloud.com^
+||amazonaws.com^
+||s3.amazonaws.com^
+||mega.co.nz^
+||pcloud.com^
+||sync.com^
+||mediafire.com^
+||wetransfer.com^
+||we.tl^
+||weiyun.com^
+||jianguoyun.com^
+||teracloud.jp^
+||yandex.ru^
+||disk.yandex.ru^
+||mail.ru^
+||cloud.mail.ru^
+||egnyte.com^
+||box.net^
+||boxcdn.net^
+||zoolz.com^
+||hubic.com^
+||filetransfer.io^
+||sendspace.com^
+||rapidshare.com^
+||yousendit.com^
+||sendthisfile.com^
+||filemail.com^
+||transfernow.net^
+||transferxl.com^
+||send-anywhere.com^
+||openload.co^
+||uploaded.net^
+||filehosting.org^
+||files.fm^
+||filefactory.com^
+||mega.io^
+||multcloud.com^
+||clouddrive.com^
+||cloudme.com^
+||degoo.com^
+||internxt.com^
+||jottacloud.com^
+||koofrnet.io^
+||memopal.com^
+||opendrive.com^
+||surfdrive.nl^
+||surdoc.com^
+||sync.com^
+||tresorit.com^
+||uploadfiles.io^
