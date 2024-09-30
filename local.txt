@@ -1,5 +1,5 @@
-### Block các host drive/ cloud không cho truy cập
-### IT MVP tạo rules ngăn chặn các truy cập
+! Block các host drive/ cloud không cho truy cập
+! IT MVP tạo rules ngăn chặn các truy cập
 ||drive.google.com^
 ||photos.google.com^
 ||sharepoint.com^
