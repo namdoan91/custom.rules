@@ -6,6 +6,7 @@
 ||1drv.com^
 ||onedrive.com^
 ||dropbox.com^
+||*.dropbox.com^
 ||www.box.com^
 ||boxcloud.com^
 ||amazonaws.com^
