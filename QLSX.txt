@@ -1,0 +1,13 @@
+!
+! Allow QLSX được truy cập các trang web
+! IT MVP thực hiện tạo file danh sách
+!
+@@||*.salesforce-sites.com^
+@@||*.one-line.com^
+@@||s.go-mpulse.net^
+@@||p.typekit.net^
+@@||*.pendo.io^
+@@||*.express.dhl^
+@@||fedex.com^
+@@||*.tokiomarine.com.vn^
+@@||evergreen.container-tracking.org^
