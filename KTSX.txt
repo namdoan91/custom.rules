@@ -1,0 +1,23 @@
+! Allow các host của KTSX được truy cập
+! IT MVP tự tạo các danh sách cho phép KTSX được truy cập đến các host
+!
+!
+@@||*.autodesk.com^
+@@||*.autodesk360.com^
+@@||*.akamaiedge.net^
+@@||*.appstreaming.autodesk.com^
+@@||*.api.autodesk.com^
+@@||accounts.autodesk.com^
+@@||appstreaming.autodesk.com^
+@@||fusionapi.autodesk.com^
+@@||notifications.api.autodesk.com^
+@@||ui-dls360.autodesk.com^
+@@||autodesk360.com^
+@@||amazonaws.com^
+@@||akamai.com^
+@@||akamaitechnologies.com^
+@@||tracepartsonline.net^
+@@||mcmaster.com^
+@@||*.s3.amazonaws.com^
+@@||*.s3-accelerate.amazonaws.com^
+@@||*.launchdarkly.com^
