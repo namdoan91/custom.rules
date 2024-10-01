@@ -21,3 +21,4 @@
 @@||*.s3.amazonaws.com^
 @@||*.s3-accelerate.amazonaws.com^
 @@||*.launchdarkly.com^
+@@||damassets.autodesk.net^
