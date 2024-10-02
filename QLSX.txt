@@ -12,3 +12,7 @@
 @@||*.tokiomarine.com.vn^
 @@||evergreen.container-tracking.org^
 @@||viettelpost.com.vn^
+@@||ecomm.one-line.com^
+@@||c.go-mpulse.net^
+@@||js-agent.newrelic.com^
+@@||www.googletagmanager.com^
