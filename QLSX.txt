@@ -4,7 +4,7 @@
 !
 @@||*.salesforce-sites.com^
 @@||*.one-line.com^
-@@||s.go-mpulse.net^
+@@||s.go-mpulse.net^$client=10.0.2.14
 @@||p.typekit.net^
 @@||*.pendo.io^
 @@||*.express.dhl^
