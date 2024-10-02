@@ -11,3 +11,4 @@
 @@||fedex.com^
 @@||*.tokiomarine.com.vn^
 @@||evergreen.container-tracking.org^
+@@||viettelpost.com.vn^
