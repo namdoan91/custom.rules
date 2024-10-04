@@ -15,4 +15,5 @@
 @@||ecomm.one-line.com^
 @@||c.go-mpulse.net^
 @@||js-agent.newrelic.com^
-@@||www.googletagmanager.com^
+@@||dichvucong.bocongan.gov.vn^
+@@||*.bocongan.gov.vn^
