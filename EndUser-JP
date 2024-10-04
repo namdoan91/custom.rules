@@ -2,8 +2,6 @@
 !
 !
 !
-@@||yahoo.co.jp^
-@@||*.yahoo.co.jp^
 @@||translate.google.co.jp^
 @@||*translate.google.co.jp^
 @@||autodesk.com^
@@ -29,6 +27,8 @@
 @@||*.launchdarkly.com^
 @@||damassets.autodesk.net^
 @@||*.amazontrust.com^
+@@||yahoo.co.jp^
+@@||*.yahoo.co.jp^
 @@||yimg.jp^
 @@||*.yimg.jp^
 @@||c.yimg.jp^
@@ -37,3 +37,12 @@
 @@||*.nikkan.co.jp^
 @@||technium.net^
 @@||*.technium.net^
+@@||wadax-sv.jp^
+@@||*.wadax-sv.jp^
+@@||line-website.com^
+@@||*.line-website.com^
+@@||newswitch.jp^
+@@||*.newswitch.jp^
+@@||shinseihinjoho.jp^
+@@||*.shinseihinjoho.jp^
+@@||*.co.jp^
