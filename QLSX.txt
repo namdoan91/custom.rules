@@ -47,7 +47,6 @@
 @@||nasupplier.denso-na.com^
 @@||portal.summitautogroup.com^
 @@||spsasiagscm-globaldenso.msappproxy.net^
-@@||nasupplier.denso-na.com^
 @@||eusupplier.denso.nl^
 @@||supplierportal.denso.com.cn^
 @@||ecus.vn^
