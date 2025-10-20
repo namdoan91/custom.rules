@@ -43,7 +43,7 @@
 @@||evergreen-marine.com^
 @@||hmaersk.com^
 @@||one-line.com^
-@@||oocl.com^
+@@||*.oocl.com^
 @@||nasupplier.denso-na.com^
 @@||portal.summitautogroup.com^
 @@||spsasiagscm-globaldenso.msappproxy.net^
