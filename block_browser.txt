@@ -1,9 +1,9 @@
 ||addons.mozilla.org^
 ||microsoftedge.microsoft.com/addons^
-||chromewebstore.google.com/*^
+||chromewebstore.google.com/^
 ||microsoftedge.microsoft.com^
-||microsoftedge.microsoft.com/addons/detail/*^
-||brave.com/learn/category/*^
+||microsoftedge.microsoft.com/addons/detail/^
+||brave.com/learn/category/^
 ||brave.com^
 ||opera.com^
 ||vivaldi.com^
