@@ -20,3 +20,4 @@
 ||tunnelbear.com^
 ||protonvpn.com^
 ||hotspotshield.com^
+||ucweb.com^
